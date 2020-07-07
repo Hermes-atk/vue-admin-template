@@ -11,10 +11,10 @@
   opacity: 0;
 }
 
-/* fade-transform */
+/* fade-transform from .5s to 0.2s*/
 .fade-transform-leave-active,
 .fade-transform-enter-active {
-  transition: all .5s;
+  transition: all 0.2s;
 }
 
 .fade-transform-enter {
