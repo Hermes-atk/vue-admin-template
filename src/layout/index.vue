@@ -5,8 +5,8 @@
     <div class="main-container">
       <div :class="{'fixed-header':fixedHeader}">
         <navbar />
-        <tags-view />
       </div>
+      <tags-view />
       <app-main />
     </div>
   </div>
